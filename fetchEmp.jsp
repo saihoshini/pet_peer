@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="/Spring3HibernateIntegration/addEmp">Add Employee</a>
+<h3>Employee Inserted successfully</h3>
 </body>
 </html>
